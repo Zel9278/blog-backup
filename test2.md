@@ -15,7 +15,6 @@ date: "2025-02-23"
 aaaaaa
 </details>
 
-![c30のふぁいるさあばあ](https://status.mogyuchi.jp/monitor/cm74tlovy000310wl81s5jisj/cm75hnuai0tytboyjbg1nbg4k/badge.svg)
 ![](https://f.c30.life/files/uhw0.png) \
 [aaaa](https://c30.life) \
 https://c30.life
