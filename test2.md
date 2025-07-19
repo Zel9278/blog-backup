@@ -3,7 +3,7 @@ title: "Markdown test"
 date: "2025-02-23"
 ---
 
-# Markdown Test
+# Markdown Test :)
 
 ## 良くないことをしている？
 
